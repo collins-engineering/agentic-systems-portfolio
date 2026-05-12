@@ -39,5 +39,5 @@ A code-first reimplementation of the Coach mode (case study #1) using LangGraph 
 ## Contact
 
 - Email: collinsengineering04@gmail.com
-- LinkedIn: *[your LinkedIn URL]*
-- Website: *[website if you want to link it]*
+  
+
